@@ -6,4 +6,4 @@ This application will let you use your mouse like a gun for shot on the computer
 
 # SCREENSHOT
 
-![alt text] (screenshot/image.png)
+![alt tag] (https://github.com/bassamhbj/CSharpScreenShoot/tree/master/screenshot/image.png)
